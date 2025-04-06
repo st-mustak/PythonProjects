@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869a75ea-e003-4d4a-91c7-d33996630d48" name="Changes" comment="" />
+    <list default="true" id="869a75ea-e003-4d4a-91c7-d33996630d48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,8 @@
     "Python.Day3_project.executor": "Run",
     "Python.Day4.executor": "Run",
     "Python.Day4_Project.executor": "Run",
+    "Python.Day5.executor": "Run",
+    "Python.Day5_project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/stmus/PycharmProjects/100DaysOfPython",
